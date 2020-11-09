@@ -15,7 +15,10 @@ By [W, A, S, D] and [up, down, left, right], you can control each circle. When t
 
 ## Requirements
 
-Just have the Python 3.7 in your machine (https://www.python.org/downloads/release/python-377/), download the game and execute it.
+Just have the Python 3.7 in your machine (https://www.python.org/downloads/release/python-377/), download the game and execute it by this command:
+```
+python py_game.py
+```
 
 # License
 
