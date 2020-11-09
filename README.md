@@ -19,6 +19,6 @@ Just have the Python 3.7 in your machine (https://www.python.org/downloads/relea
 
 # License
 
-Copyright &copy; Eduardo Migueis and Rodrigo Smith 2020.
+Copyright &copy; Rodrigo Smith 2020.
 
 Distributed under the GNU GENERAL PUBLIC LICENSE V3 license. See LICENSE for more information.
