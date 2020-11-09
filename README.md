@@ -9,10 +9,16 @@ A simple game using Python programming language, through Py-game library. It´s 
 
 ![](screenshot.png)
 
-## Usage
+## Hoy to use?
 
 By [W, A, S, D] and [up, down, left, right], you can control each circle. When the pink cirlce pass horizontally through yellow, it change its color.
 
-## Requirements and Installation
+## Requirements
 
 Just have the Python 3.7 in your machine (https://www.python.org/downloads/release/python-377/), download the game and execute it.
+
+# License
+
+Copyright &copy; Eduardo Migueis and Rodrigo Smith 2020.
+
+Distributed under the GNU GENERAL PUBLIC LICENSE V3 license. See LICENSE for more information.
